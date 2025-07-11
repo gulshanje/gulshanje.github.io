@@ -14,10 +14,6 @@
     "framer-motion": "^12.15.0",
     "react": "^19.1.0",
     "react-bootstrap": "^2.10.10",
-<<<<<<< HEAD
-=======
-    "react-circular-progressbar": "^2.2.0",
->>>>>>> 6e2742a35b92cd5337933e4f54ffa3ee768481f5
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.6.1",
