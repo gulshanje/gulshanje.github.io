@@ -3,14 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.9.0",
+    "bootstrap": "^5.3.6",
     "framer-motion": "^12.15.0",
     "react": "^19.1.0",
     "react-bootstrap": "^2.10.10",
+<<<<<<< HEAD
+=======
+    "react-circular-progressbar": "^2.2.0",
+>>>>>>> 6e2742a35b92cd5337933e4f54ffa3ee768481f5
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.6.1",
