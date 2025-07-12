@@ -8,6 +8,7 @@ import Portfolio from './pages/Portfolio';
 import Gallery from './pages/Gallery';
 import Contact from './pages/Contact';
 import ProtectedRoute from './components/ProtectedRoute';
+import VueGalleryEmbed from './pages/VueGalleryEmbed';
 
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
     /> */}
       <Route path="/dashboard" element={ <Dashboard /> } />
       <Route path="/portfolio" element={ <Portfolio /> } />
-      <Route path="/gallery" element={ <Gallery /> } />
+      <Route path="/gallery" element={ <VueGalleryEmbed /> } />
       {/* <Route path="/logout" element={<Logout />} />
       <Route path="/dashboard" element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
       

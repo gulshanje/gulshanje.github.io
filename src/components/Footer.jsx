@@ -11,7 +11,7 @@ export default function Footer() {
         textAlign: 'center',
       }}
     >
-      <Typography variant="body2">© {new Date().getFullYear()} User Management App</Typography>
+      <Typography variant="body2">© {new Date().getFullYear()} Mursu ji</Typography>
     </Box>
   );
 }
